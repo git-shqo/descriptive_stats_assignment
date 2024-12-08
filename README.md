@@ -1,2 +1,2 @@
 # descriptive_stats_assignment
-Descriptive statistics assignment, where given the dataset, we have to answer to the questions and do basic analysis.
+This repository contains a descriptive statistics assignment completed using R. The goal of the analysis is to answer specific questions based on a given dataset, applying basic statistical techniques and providing visualizations where necessary. This includes calculating measures like mean, median, standard deviation, and generating plots to summarize the data.
